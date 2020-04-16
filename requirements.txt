@@ -2,7 +2,7 @@ discord
 discord.py
 voice
 datetime
-nekos
+nekos.py
 random
 json
 Status
@@ -18,3 +18,11 @@ asyncio
 math
 itertools
 commands
+aiohttp
+websockets
+chardet
+urllib3
+idna
+certifi
+requests
+six
