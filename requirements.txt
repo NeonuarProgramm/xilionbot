@@ -3,7 +3,7 @@ discord.py
 voice
 datetime
 nekos.py
-random
+random.py
 json
 Status
 cycle
