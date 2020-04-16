@@ -12,9 +12,15 @@ import sqlite3
 import traceback
 import os
 import shutil
-import anime
 import asyncio
 import math
+import aiohttp
+import six
+import chardet
+import urllib3
+import idna
+import certifi
+import requests
 import itertools
 from discord.ext import commands # Импортирование commads из discord.ext
 
