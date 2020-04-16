@@ -1,5 +1,6 @@
 discord
 discord.py
+voice
 datetime
 nekos
 random
