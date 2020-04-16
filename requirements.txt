@@ -13,7 +13,6 @@ sqlite3
 traceback
 os
 shutil
-anime
 asyncio
 math
 itertools
