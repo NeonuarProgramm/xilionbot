@@ -1,4 +1,5 @@
-discord, random
+discord
+discord.py
 VoiceClient
 datetime
 nekos
